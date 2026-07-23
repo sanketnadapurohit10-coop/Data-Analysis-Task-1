@@ -41,7 +41,7 @@ The objective of this task is to clean and preprocess the Customer Personality A
 
 ## Screenshot
 
-![Excel Data Cleaning]()
+![image alt](https://github.com/sanketnadapurohit10-coop/Data-Analysis-Task-1/blob/b34e033efb0f211d37c8677496ee6060556e4b1c/Screenshot%202026-07-23%20122241.png)
 
 Or view it on GitHub:
 
